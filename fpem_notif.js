@@ -1,12 +1,12 @@
 /**
  * ========================================================================
- * FPEM NOTIFICATION SYSTEM v2.0
+ * FPEM NOTIFICATION SYSTEM v1.0
  * ========================================================================
  * 
  * Advanced Toast Notification System for Modern Web Applications
  * 
  * @author FPEM TECHNOLOGY
- * @version 2.0.0
+ * @version 1.0.0
  * @license MIT
  * @description Système de notifications toast avancé avec support complet
  *              de l'accessibilité, animations fluides, responsive design,
