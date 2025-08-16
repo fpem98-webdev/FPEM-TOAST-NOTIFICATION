@@ -5,8 +5,8 @@
  * 
  * Advanced Toast Notification System for Modern Web Applications
  * 
- * @author FIRMIN POLIQUIN EWANG MPUISSA
- * @Telegram https://t.me/fpem_ts
+ * @author FPEM BIG BLACK CODE
+ * @Telegram https://t.me/fpemb2c 
  * @version 1.0.0
  * @license MIT
  * @description Système de notifications toast avancé avec support complet
